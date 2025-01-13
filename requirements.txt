@@ -3,6 +3,5 @@ beautifulsoup4
 tqdm
 selenium
 
-lxml
 python-dotenv
 openai

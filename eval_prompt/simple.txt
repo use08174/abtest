@@ -1,0 +1,10 @@
+Compare the provided screenshots, which are variations of the same page for A/B test on UI, and identify major differences between them. The purple-colored sections are guides to help you focus on varying elements.
+Based on these differences, analyze which version is likely to be more user-friendly and preferred by users, considering usability, design aesthetics, and functionality.
+
+Answer format:
+Difference)
+1. <difference 1>
+2. <difference 2>
+...
+User-friendly Choice) Screenshot <number>
+Reason) <reasoning>

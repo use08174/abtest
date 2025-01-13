@@ -1,0 +1,162 @@
+Website: https://goodui.org/leaks/airbnb-a-b-tests-search-with-automatic-prompts-which-gets-rejected/
+Comment: interaction
+
+Website: https://goodui.org/leaks/amazon-a-b-tests-this-floating-product-page-navigation-that-is-accepted/
+Comment: complicated
+
+Website: https://goodui.org/leaks/etsy-a-b-tests-3-footer-variations-with-their-story-and-customer-support-links/
+Comment: explanation
+
+Website: https://goodui.org/leaks/netflix-rejected-all-these-tested-homepage-variations-perhaps-this-one-will-help/
+Comment: hard, many
+
+Website: https://goodui.org/leaks/how-etsys-product-page-design-evolved-between-2019-and-2020/
+Comment: focus on structure, not contents, many points
+
+Website: https://goodui.org/leaks/bol-tests-8-add-to-cart-buttons-with-1-winner/
+Comment: so many
+
+Website: https://goodui.org/leaks/reverbs-ui-redesign-succeeds-in-this-a-b-test/
+Comment: long
+
+Website: https://goodui.org/leaks/amazon-a-b-tests-and-rejects-wider-and-smaller-product-titles/
+Comment: many
+
+Website: https://goodui.org/leaks/etsy-runs-an-a-b-test-suggesting-that-less-isnt-necessarily-more/
+Comment: prediscount info
+
+Website: https://goodui.org/leaks/airbnb-attempts-a-big-property-page-redesign-but-it-is-rejected-after-this-a-b-test/
+Comment: long & many
+
+Website: https://goodui.org/leaks/walmart-ran-this-big-navigation-a-b-test-with-8-confounded-ui-changes-rejecting-it/
+Comment: many
+
+Website: https://goodui.org/leaks/walmarts-2nd-take-on-its-new-navigation-seems-to-have-worked/
+Comment: many, similar with before x2
+
+Website: https://goodui.org/leaks/walmart-a-b-tested-this-winning-homepage/
+Comment: many
+
+Website: https://goodui.org/leaks/airbnb-retests-the-infamous-infinite-scroll/
+Comment: infinite scroll
+
+Website: https://goodui.org/leaks/one-modal-too-far-bookings-rejected-destination-overlay-experiment/
+Comment: back info
+
+Website: https://goodui.org/leaks/booking-a-b-c-d-tests-and-detects-a-better-calendar-widget/
+Comment: interaction
+
+Website: https://goodui.org/leaks/amazon-discovers-that-product-availability-and-price-belong-closer-towards-add-to-cart/
+Comment: should also read what content is
+
+Website: https://goodui.org/leaks/airbnb-a-b-tested-these-3-button-labels-and-they-all-failed/
+Comment: many
+
+Website: https://goodui.org/leaks/airbnb-a-b-tests-and-rejects-both-of-these-social-proof-statements/
+Comment: should read
+
+Website: https://goodui.org/leaks/bookings-a-b-test-reveals-more-impactful-search-criteria-higher-location-tiles/
+Comment: long
+
+Website: https://goodui.org/leaks/airbnb-discovers-a-better-way-to-display-customer-ratings-in-this-a-b-test/
+Comment: read
+
+Website: https://goodui.org/leaks/etsy-a-b-c-tests-category-links-vs-breadcrumbs/
+Comment: breadcrumb, situation setting?
+
+Website: https://goodui.org/leaks/netflix-a-b-tests-a-single-plan-recommendation-and-it-becomes-rejected/
+Comment: most vs mid, additional modal
+
+Website: https://goodui.org/leaks/airbnb-switched-to-a-bigger-button-after-running-this-design-experiment/
+Comment: large button
+
+Website: https://goodui.org/leaks/airbnb-gets-creative-in-this-multiple-variation-homepage-experiment/
+Comment: many
+
+Website: https://goodui.org/leaks/airbnb-discovers-a-better-way-to-let-customers-explore-listings/
+Comment: many, interaction
+
+Website: https://goodui.org/leaks/airbnb-a-b-tested-and-removed-its-host-question-videos/
+Comment: video
+
+Website: https://goodui.org/leaks/airbnb-a-b-tests-and-rejects-a-natural-language-form/
+Comment: form info
+
+Website: https://goodui.org/leaks/amazons-loaded-hamburger-menu-beats-its-older-dropdown-in-this-a-b-test/
+Comment: interaction, many, multi option
+
+Website: https://goodui.org/leaks/airbnb-a-b-tests-more-filters-on-their-listing-screens-with-this-outcome/
+Comment: read, more filter option
+
+Website: https://goodui.org/leaks/amazon-a-b-c-d-e-tests-and-discovers-better-product-information-for-their-listing-tiles/
+Comment: many, read (week, month)
+
+Website: https://goodui.org/leaks/walmart-runs-a-potentially-confounded-button-color-a-b-test/
+Comment: hover interaction
+
+Website: https://goodui.org/leaks/amazon-finally-a-b-tests-their-full-vs-fixed-width-layout-in-this-experiment/
+Comment: layout
+
+Website: https://goodui.org/leaks/netflix-a-b-tests-4-secondary-choices-all-of-which-get-rejected/
+Comment: interaction, omitted
+
+Website: https://goodui.org/leaks/one-possible-reason-why-etsys-floating-buy-box-ui-was-rejected/
+Comment: long, floating
+
+Website: https://goodui.org/leaks/booking-a-b-tests-rounded-corners-on-multiple-elements/
+Comment: multiple rounded
+
+Website: https://goodui.org/leaks/etsy-a-b-tests-smaller-shorter-product-titles/
+Comment: shortened title
+
+Website: https://goodui.org/leaks/etsy-a-b-tests-and-implements-required-field-labels/
+Comment: asterisk
+
+Website: https://goodui.org/leaks/booking-fails-to-replicate-airbnbs-signup-this-experiment-suggests/
+Comment: interaction, complicated
+
+Website: https://goodui.org/leaks/booking-a-b-tests-ghost-buttons-but-their-hopes-fade-away-as-predicted/
+Comment: ghost button
+
+Website: https://goodui.org/leaks/netflix-a-b-tests-and-rejects-free-trials/
+Comment: many
+
+Website: https://goodui.org/leaks/are-visible-cancellation-scenarios-too-much-as-airbnb-found-out-in-their-failed-experiment/
+Comment: analysis on graph
+
+Website: https://goodui.org/leaks/amazon-a-b-tests-wider-buy-boxes-on-their-product-pages/
+Comment: width
+
+Website: https://goodui.org/leaks/googles-recommended-questions-are-better-off-below-search-results/
+Comment: long
+
+Website: https://goodui.org/leaks/bol-a-b-tests-and-rolls-out-expanded-color-and-brand-filters/
+Comment: brand
+
+Website: https://goodui.org/leaks/google-has-been-a-b-testing-link-colors-again-and-this-light-blue-didnt-pass/
+Comment: similar color
+
+Website: https://goodui.org/leaks/amazons-buy-one-time-vs-subscription-experiment/
+Comment: default
+
+Website: https://goodui.org/leaks/amazons-beautifully-designed-and-failed-three-vs-two-column-layout-experiment/
+Comment: many
+
+Website: https://goodui.org/leaks/airbnb-a-b-tests-hidden-vs-shown-price-totals/
+Comment: day infer
+
+Website: https://goodui.org/leaks/airbnb-made-3-changes-to-their-property-page/
+Comment: many
+
+Website: https://goodui.org/leaks/airbnb-added-more-search-cues/
+Comment: 2, 3 not much diff
+
+Website: https://goodui.org/leaks/booking-sticks-to-a-traditional-breadcrumb-after-rejecting-a-multi-dimensional-one/
+Comment: 2dim breadcrumb
+
+Website: https://goodui.org/leaks/walmart-a-b-tests-shipping-choices-vs-shipping-reassurances/
+Comment: reassure
+
+Website: https://goodui.org/leaks/airbnb-runs-a-successful-leap-redesign-experiment-for-new-hosts/
+Comment: so many (diff)
+

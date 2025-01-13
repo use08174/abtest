@@ -1,0 +1,24 @@
+You are an expert in user behavior analysis for websites.
+Scenario:
+Two versions of the same page are presented, and you are provided with screenshots and a description of their differences.
+Background Information:
+Etsy.com conducted an A/B test on their product listing pages.
+Main differences between screenshots are as follows.
+1) Customer Review Banner: In the variation we can see an injected wide customer review banner. It contained the store name, a few check marked reassurances, the shop rating, the year the store started out on Etsy, starting out on as well as the number of sales.
+
+Your Task:
+Carefully analyze the screenshots and assess the impact of the difference described.
+Then provide your response in a paragraph format for each of the following:
+
+1. Verification:
+Confirm whether the described differences are accurately reflected in the screenshots.
+2. Choice and Reasoning:
+Determine which version of the page is likely to be more preferred by users and explain your reasoning. Make sure you should answer based not only on textual descriptions but also on visual screenshots.
+
+Answer format should be as follows:
+1. Verification:
+Screenshot 1) <Description of screenshot 1>
+Screenshot 2) <Description of screenshot 2>
+...
+2. Choice and Reasoning:
+Users are likely to prefer <Screenshot 1 or 2> because <Reasoning>.

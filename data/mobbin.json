@@ -1,0 +1,519 @@
+[
+    {
+        "analysis_url": "https://abtest.design/tests/customized-landing-page-for-paid-traffic",
+        "page_title": "Customized landing page for paid traffic",
+        "company": "Houzz",
+        "type": "Misc",
+        "image_url": "https://framerusercontent.com/images/NjUNdNGo4VO9chz7ZdRIxic1ec.png",
+        "text": {
+            "description": "Houzz addressed the lower conversion rate of paid traffic by creating a dedicated landing page focused solely on 3D floor plans, removing all distractions like headers and additional information, to better align with the intent of paid users and improve conversions.",
+            "results": "5% increase in free trial starts"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/payramp-not-paywall",
+        "page_title": "Payramp, not Paywall",
+        "company": "Slopes",
+        "type": "Paywall & free trial",
+        "image_url": "https://framerusercontent.com/images/RCiYzUt5sH2wSdCUleRq8rVTiA.png",
+        "text": {
+            "description": "Slopeâs payramp design allows users to start a free trial with a single touch, bypassing secondary paywall screen. The design is simple and it works well as a quick-start mechanism for beginning a trial. Also, with a copy that says âRedeem your free 2 weeksâ, users feel like theyâre gaining something, not giving something away.",
+            "results": "25% improvement in trial start"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/yearly-plan-as-the-default",
+        "page_title": "Yearly plan as the default",
+        "company": "Mojo",
+        "type": "Paywall & free trial",
+        "image_url": "https://framerusercontent.com/images/vGGsnywSexsbYskNfr77ocXrNg.png",
+        "text": {
+            "description": "Traditionally, paywall screens present both subscription options (yearly and monthly) upfront. Mojo experimented by showcasing only the yearly option, with the monthly alternative accessible through a âView All Plansâ link.",
+            "results": "15-20% increase in the proportion of yearly subscriptions"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/separating-contact-information-into-multiple-screens",
+        "page_title": "Separating contact information into multiple screens",
+        "company": "Houzz",
+        "type": "Onboarding",
+        "image_url": "https://framerusercontent.com/images/unUHWOFfjWRBbi16jdMTRhonb34.png",
+        "text": {
+            "description": "Houzzâs new design separates contact information into three distinct screensâone for name, one for email, and one for phone number. This change aims to reduce cognitive load by breaking down the information entry process, despite the increase in clicks required to complete the form.",
+            "results": "15+% increase in conversion rate"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/optimizing-product-pages-with-ai",
+        "page_title": "Optimizing product pages with AI",
+        "company": "Hannah & Henry",
+        "type": "Checkout & sales",
+        "image_url": "https://framerusercontent.com/images/FCQfn6viJ1LveFgrj7gF2p9RqI.png",
+        "text": {
+            "description": "Hannah & Henryâs new approach uses AI to optimize product pages by generating slogans, descriptions, and selecting top reviews. This change aims to enhance the user experience and boost conversions on key product pages.",
+            "results": "Increase in sales by 45.67%"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/content-locking",
+        "page_title": "Content locking",
+        "company": "Busuu",
+        "type": "Monetization awareness",
+        "image_url": "https://framerusercontent.com/images/EFimIIc3oTuIvhYDV1TgeR29p4.png",
+        "text": {
+            "description": "Busuu tested restricting access to multiple languages for free users, allowing only Premium users to learn more than one language. The hypothesis was that dedicated free users who switch between languages would upgrade to continue learning.",
+            "results": "83% increase in conversions among these power users"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/pro-badge",
+        "page_title": "Pro badge",
+        "company": "Mobbin",
+        "type": "Monetization awareness",
+        "image_url": "https://framerusercontent.com/images/G6h56AlSHd8FDpE83llkkrNc3Y.png",
+        "text": {
+            "description": "Mobbin's latest design update introduced pro badges on features exclusive to paying users. This change was intended to raise awareness about monetization and clearly communicate the advantages of upgrading to the pro plan, while also preventing free users from encountering unexpected paywalls. The addition of these badges led to a noticeable increase in free-to-paid conversions, despite no other changes being made to the app.",
+            "results": "35% increase in free-to-paid conversions"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/clear-transparent-returns-policy",
+        "page_title": "Clear & transparent returns policy",
+        "company": "T.M. Lewin",
+        "type": "Checkout & sales",
+        "image_url": "https://framerusercontent.com/images/k4MiHQKotzNs0DvEA7HbHgOgMs.png",
+        "text": {
+            "description": "T.M. Lewin's new design highlights an easy returns policy for fit issues, aiming to address customer concerns and simplify the purchasing process. This approach is intended to boost user confidence and drive higher conversions, leading to a significant revenue increase.",
+            "results": "50% increase in conversion rate7% uplift in monthly sales"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/delayed-bank-account-setup",
+        "page_title": "Delayed bank account setup",
+        "company": "TikTok",
+        "type": "Onboarding",
+        "image_url": "https://framerusercontent.com/images/cwGGrD0H26eQZEY4H93ehWcuY.png",
+        "text": {
+            "description": "TikTok sought to boost enrollment in its revenue-sharing program, which required creators to complete a KYC process, including linking their bank accounts, before they could earn revenue. The initial process caused a significant drop-off, as creators were hesitant to provide banking details upfront. To address this, TikTok revised the onboarding flow, allowing creators to start producing content and see potential earnings before connecting their bank accounts. This change aimed to reduce friction and motivate more creators to join the program, easing the initial commitment and building trust.",
+            "results": "25% increase in creators enrolling in the program"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/streamlining-checkout-process",
+        "page_title": "Streamlining checkout process",
+        "company": "HotelTonight",
+        "type": "Checkout & sales",
+        "image_url": "https://framerusercontent.com/images/qxdOuS0KJzZE5RA97cbftTUShXY.png",
+        "text": {
+            "description": "HotelTonight streamlined its checkout process by removing the mandatory account creation screen, hypothesizing that this would reduce friction and boost bookings. The A/B test compared the original checkout flow with a variant that only requested a name and email on the order summary screen, replacing password creation with a reset link.",
+            "results": "15% increase in conversions"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/free-trial-only-for-annual-subscription",
+        "page_title": "Free trial only for annual subscription",
+        "company": "Moonly",
+        "type": "Paywall & free trial",
+        "image_url": "https://framerusercontent.com/images/NJUP1qxUFnIIibL38KoJPKk.png",
+        "text": {
+            "description": "Moonly added a trial period exclusively to the annual subscription option. Consequently, users began to choose the annual subscription more frequently than the other two options, as the trial period made it seem like a safer choice.",
+            "results": "39% increase in conversion rate from view to subscription47% increase in revenue per 100 installs5% increase in ARPPU (Average revenue per paying user)"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/clearer-pricing-estimate",
+        "page_title": "Clearer pricing estimate",
+        "company": "Uber",
+        "type": "Checkout & sales",
+        "image_url": "https://framerusercontent.com/images/Z5lAa1wk7OiqsxRYK3cd5GxSQXE.png",
+        "text": {
+            "description": "Uber initially experimented with displaying a price range ($14-$20) for rides to better manage traffic and costs. However, users often focused on the higher end of the range, leading to uncertainty and a decline in bookings. To address this, Uber switched to showing a single estimated price, aiming to reduce hesitation and build trust by providing a clearer expectation of ride costs.",
+            "results": "Double-digit increase in rides per user"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/simplified-pricing-page-layout",
+        "page_title": "Simplified pricing page layout",
+        "company": "Instapage",
+        "type": "Misc",
+        "image_url": "https://framerusercontent.com/images/4mZF10yMVDilWekvUFBlt2Tww.png",
+        "text": {
+            "description": "Instapage tried to simplify their pricing page layout by removing unnecessary details and highlighting key features, making it easier for visitors to compare plans. This change was designed to reduce cognitive load, improve clarity, and help users quickly identify the best option.",
+            "results": "The original (A) slightly outperformed the variant (B) in terms of conversion (3.67% vs 3.44%)"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/free-content-exploration-before-signup",
+        "page_title": "Free content exploration before signup",
+        "company": "Pinterest",
+        "type": "Onboarding",
+        "image_url": "https://framerusercontent.com/images/kLLpUsWq4qYN9TadSudjTN8KQ.png",
+        "text": {
+            "description": "Pinterest's new approach lets users scroll through three pages of content before prompting them to sign up. This change aims to reduce initial friction and capture user interest by showcasing value upfront, potentially increasing sign-ups and reducing bounce rates.",
+            "results": "15-20% increase in signups"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/trial-for-free-cta",
+        "page_title": "âTrial for freeâ CTA",
+        "company": "Going",
+        "type": "Misc",
+        "image_url": "https://framerusercontent.com/images/83AhFK22cY1yXl49MNkloUoHbMM.png",
+        "text": {
+            "description": "Upon facing low conversion rates on its premium subscription plans, Going tweaked the CTA on their homepage, comparing âSign up for freeâ with âTrial for free.â This subtle three-word change was designed to better emphasize the value of their premium offerings by making the free trial option more prominent.",
+            "results": "104% increase in trial starts month-over-monthNot only did it improve conversion rates through paid channels but it also surpassed the performance of organic traffic for the first time"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/driving-motivation",
+        "page_title": "Driving motivation",
+        "company": "Opal",
+        "type": "Paywall & free trial",
+        "image_url": "https://framerusercontent.com/images/kSGNENa400KOX41bxN2zyurpos4.png",
+        "text": {
+            "description": "Opalâs new approach involved projecting the time spent on smartphones over a lifetime and presenting users with the potential to save several years by using the product. This created a moment of high motivation, encouraging users to sign up for a free trial, similar to the commitment effect seen with gym memberships. The strategy not only increased trial sign-ups but also attracted users who were motivated to engage with the product. Through various iterations, the conversion rate of trial sign-ups from downloads improved from 7% to 17%.",
+            "results": "Increased trial sign-up conversion rate from 7% to 17%"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/conversational-tone-in-onboarding",
+        "page_title": "Conversational tone in onboarding",
+        "company": "Dollar Shave Club",
+        "type": "Onboarding",
+        "image_url": "https://framerusercontent.com/images/qK70ZqXE7VK3P1mfYi0hNCu00.png",
+        "text": {
+            "description": "Dollar Shave Clubâs new design introduces a more conversational tone in the initial steps of the subscription funnel. This change aims to enhance emotional resonance and align with the brand's playful persona. The update is designed to increase user connection and drive higher subscription rates by improving the overall emotional appeal of the experience.",
+            "results": "5.24% increase in subscriptions"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/hard-vs-soft-paywall",
+        "page_title": "Hard vs soft paywall",
+        "company": "Peptalk",
+        "type": "Paywall & free trial",
+        "image_url": "https://framerusercontent.com/images/DgKrL3jF0E04OhijevH6AIqQ.png",
+        "text": {
+            "description": "PepTalkâs new A/B test was designed to address a significant drop-off in conversions at a specific paywall that appeared when users attempted to play a premium video while still on a free membership. To tackle this issue, two variants were tested: Variant A introduced an intermediate screen providing more details about the video, similar to Netflixâs autoplay snippets when hovering over content. Tapping on the âWatch Nowâ button led to the paywall. Variant B allowed the video to play for 10 seconds before displaying the message âEnjoying our exclusive video content?â. The paywall would then appear when the âContinue to Watchâ CTA was clicked.",
+            "results": "Conversion rates with B overtook A significantly"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/30-day-guest-pass",
+        "page_title": "30-Day Guest Pass",
+        "company": "Headspace",
+        "type": "Referral",
+        "image_url": "https://framerusercontent.com/images/RK3dqs9ck0RKzpjgDQFvVV2lY.png",
+        "text": {
+            "description": "Headspace introduced 30-Day Guest Pass, a referral program offering a 30-day free trial, double the standard 14 days, to help potential users understand the app's value. By leveraging recommendations from current users, the program aimed to convert skeptics into trial users through personalized, trusted referrals.",
+            "results": "7% increase in new signups8% increase in revenue due to the higher free trial to paid subscriber conversion rate from referrals"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/onboarding-checklist",
+        "page_title": "Onboarding checklist",
+        "company": "Mural",
+        "type": "Onboarding",
+        "image_url": "https://framerusercontent.com/images/Qo73cvH9u4jZ0hQCHF4aVM7PDPw.png",
+        "text": {
+            "description": "Mural simplified its onboarding by replacing confusing pop-ups and banners with a clear, five-step checklist to guide new users through their first session. This streamlined approach aimed to increase user retention by encouraging key actions like creating a board or adding a sticky note, which are strong indicators of long-term engagement.",
+            "results": "10% relative increase in 1 week retention, making the onboarding experience more engaging and effective"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/heart-vs-thumbs-up-icon",
+        "page_title": "Heart vs thumbs up icon",
+        "company": "Paktor",
+        "type": "User engagement & retention",
+        "image_url": "https://framerusercontent.com/images/sQa90ts619zCYLUttHry2DE6rxU.png",
+        "text": {
+            "description": "Paktor, a mobile dating app in Asia, aimed to increase user engagement by redesigning the like and dislike buttons. The team hypothesized that using a heart and an X would make the buttons more appealing and encourage more interactions. However, the design featuring thumbs up and thumbs down icons resulted in better user engagement.",
+            "results": "Increase in clicks of the like button by 6% and clicks of the dislike button by 4.3%Increase in repeat app usage by 2.3%"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/visual-contrast-between-pricing-tiers",
+        "page_title": "Visual contrast between pricing tiers",
+        "company": "Github",
+        "type": "Misc",
+        "image_url": "https://framerusercontent.com/images/ebOnSgq2y5pYO8LdNjNpd2LEzk.png",
+        "text": {
+            "description": "Github implemented three key changes to the pricing page. First, they increased the visual contrast between tiers by highlighting more features in the higher tiers, making them stand out compared to the lower tiers. Second, they emphasized the features that customers valued most to better align with user priorities. Lastly, they enhanced the page's aesthetics by using vibrant colors and removing an outdated tier, leading to a cleaner, more appealing design.",
+            "results": "20+% increase in free and paid signups"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/decoupling-streaks-from-daily-goals",
+        "page_title": "Decoupling streaks from daily goals",
+        "company": "Duolingo",
+        "type": "User engagement & retention",
+        "image_url": "https://framerusercontent.com/images/puxjhP1UJGhf29vHBlyqu5ecyc.png",
+        "text": {
+            "description": "Duolingo redesigned its streak feature to better support user engagement and retention. Previously, maintaining a streak required users to meet their daily learning goals, which could be daunting for those with higher goals. The redesign decoupled streaks from daily goals, allowing users to preserve their streak by completing just one lesson per day, regardless of their set goal. This change aimed to reduce pressure and make streaks more achievable, particularly for learners with ambitious goals.",
+            "results": "Increase in the number of learners on a 7+ day streak by over 40%"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/displaying-individual-investment-amount",
+        "page_title": "Displaying individual investment amount",
+        "company": "Stash",
+        "type": "User engagement & retention",
+        "image_url": "https://framerusercontent.com/images/C8Syz47qn2AP3LkhxqHhKblAfc.png",
+        "text": {
+            "description": "Stash ran an A/B test to determine if displaying individual investment amounts, rather than just the total portfolio value, would encourage users to keep their Auto-Stash feature active. The new design aimed to provide clearer insights into each investment, potentially increasing user engagement with the Auto-Stash schedule.",
+            "results": "12% more users kept automatically saving even 8 months later"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/credit-card-required-free-trial",
+        "page_title": "Credit card-required free trial",
+        "company": "Outseta",
+        "type": "Paywall & free trial",
+        "image_url": "https://framerusercontent.com/images/abdyjrkN7aconWQHeWilBH97YEs.png",
+        "text": {
+            "description": "Outseta transitioned from a freemium model to a 7-day free trial that required a credit card. This change aimed to attract more committed users by filtering out less serious sign-ups and reducing the burden on customer support. The trial was designed to create a sense of urgency, encouraging users to explore the platform quickly.",
+            "results": "Higher conversion rate (4-5x) of 35% compared to 7.25% with freemium"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/social-validation",
+        "page_title": "Social validation",
+        "company": "Headspace",
+        "type": "User engagement & retention",
+        "image_url": "https://framerusercontent.com/images/JziXYm7SWH58za6sWjKhTD0q7I.png",
+        "text": {
+            "description": "Headspace introduced a feature that displays positive feedback and encouraging thoughts from other users during meditation sessions. This addition aimed to provide real-time social validation, enhance user experience, and improve engagement by showcasing the effectiveness and benefits of the content.",
+            "results": "3% increase in the survival rate of free trial users"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/user-reviews-on-paywall",
+        "page_title": "User reviews on paywall",
+        "company": "Runtastic",
+        "type": "Paywall & free trial",
+        "image_url": "https://framerusercontent.com/images/T06v6hoXvMWHqPwBrUUJw2sGLUM.png",
+        "text": {
+            "description": "Runtastic tested a new approach to boost in-app membership upgrades by replacing the promotional statement on their paywall with a real user review and 5-star rating. The hypothesis was that this change would increase subscription rates by leveraging social proof.",
+            "results": "44% increase in paid subscriptions"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/onboarding-with-multi-intent-queries",
+        "page_title": "Onboarding with multi-intent queries",
+        "company": "Headspace",
+        "type": "Onboarding",
+        "image_url": "https://framerusercontent.com/images/MfOg2mBWL4N79KfVwGLsqFxeTWE.png",
+        "text": {
+            "description": "Headspace redesigned its onboarding process by allowing users to select multiple reasons for using the app, such as anxiety relief and mindfulness, instead of just one. This multi-intent approach aimed to better capture users' varied needs, tailoring the app's offerings to increase conversion from free to paid users.",
+            "results": "10% increase in free trial conversion"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/simplifying-onboarding",
+        "page_title": "Simplifying onboarding",
+        "company": "Virgin Mobile UAE",
+        "type": "Onboarding",
+        "image_url": "https://framerusercontent.com/images/5IR4z5xVhublN5adffMWSmhAVb4.png",
+        "text": {
+            "description": "Virgin Mobile UAE noticed a high drop-off rate during the number selection step in their sign-up flow. To address this, they tested a new approach where users were automatically assigned a random number with the option to change it if desired. The original design required users to choose or transfer a number upfront, while the new variant prominently displayed a pre-assigned number, making it easier to proceed.",
+            "results": "9% increase in users progressing to the registration stepDecrease in drop-off rate by nearly 18%"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/clear-free-trial-message-discount-badge",
+        "page_title": "Clear free trial message + discount badge",
+        "company": "TIPSTOP",
+        "type": "Paywall & free trial",
+        "image_url": "https://framerusercontent.com/images/x4ikuFtTRAoWIovx8qvBuLrmfzk.png",
+        "text": {
+            "description": "TipStopâs new design variations were tested to evaluate their effectiveness in encouraging users to sign up for a free trial of the premium plan. Both variants highlight the same key features, but Variant B adds a âFree during the monthâ message, likely designed to attract users by emphasizing the value of the free trial and the ability to save 60% through the prominent âSave 60%â badge.",
+            "results": "190% jump in direct conversion"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/limited-time-discounts-for-cart-abandoners",
+        "page_title": "Limited-time discounts for cart abandoners",
+        "company": "Kiss My Keto",
+        "type": "Checkout & sales",
+        "image_url": "https://framerusercontent.com/images/JvfOFm4hNAJeEUkgm3b2BKlM1M.png",
+        "text": {
+            "description": "Kiss My Ketoâs new approach offers cart abandoners a limited-time 15% discount, accompanied by a countdown timer to create a sense of urgency. This strategy is designed to re-engage highly interested users and encourage them to complete their purchase by leveraging FOMO.",
+            "results": "15.05% increase in conversion rate"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/real-time-referral-tracking",
+        "page_title": "Real-time referral tracking",
+        "company": "SoFi",
+        "type": "Referral",
+        "image_url": "https://framerusercontent.com/images/kWiXX5kYs3Q1fg0AfL7kMZPzs.png",
+        "text": {
+            "description": "SoFi aimed to increase the low referral rate, which accounted for only 2% of new users, by making the referral process more engaging and transparent. Previously, users could only see if their referral was successful when they received a reward. The new solution introduced real-time visibility into their friends' progress through the sign-up stages, making it easier to track and encourage successful referrals. This approach was designed to reduce friction and boost motivation by clearly showing potential earnings.",
+            "results": "20x increase in referrals, which accounted for 40% of all new user sign-ups within a 3 month period"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/optimizing-clarity-of-payment-options",
+        "page_title": "Optimizing clarity of payment options",
+        "company": "Chick-fil-A",
+        "type": "Checkout & sales",
+        "image_url": "https://framerusercontent.com/images/QvUCMcczBrdlDsRQVrGhPvTVnI8.png",
+        "text": {
+            "description": "Chick-fil-A addressed a misleading UX in their app that caused customers to think they could only pay with the companyâs loyalty card, leading to lower cart conversions. By testing new layouts and CTAs, they clarified the payment options and successfully resolved the issue, eliminating customer confusion and improving the overall user experience.",
+            "results": "6% increase in credit card paymentsDecrease in customer complaints to 0"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/7-day-trial-for-monthly-14-day-trial-for-annual-subscription",
+        "page_title": "7-day trial for monthly & 14-day trial for annual subscription",
+        "company": "Headspace",
+        "type": "Paywall & free trial",
+        "image_url": "https://framerusercontent.com/images/SlE9spoAkcRamset1tlKBD7cnhg.png",
+        "text": {
+            "description": "Headspace tested various free trial lengthsâ7, 14, and 30 daysâwith the goal of identifying the optimal duration to maximize conversions. The final implementation tied a 7-day trial to the monthly subscription and a 14-day trial to the annual subscription, making the annual option more appealing.",
+            "results": "Double-digit increase in conversions despite despite the delay in immediate revenue"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/highlighting-free-delivery",
+        "page_title": "Highlighting free delivery",
+        "company": "Clarks",
+        "type": "Checkout & sales",
+        "image_url": "https://framerusercontent.com/images/jXUJgDDPZUQRoZmeukw6YUNqg.png",
+        "text": {
+            "description": "Clarks sought to increase completed orders by highlighting their free delivery policy for orders over Â£50, a benefit many users were unaware of. Drawing on insights from a large experiment database, they hypothesized that prominently displaying this delivery information on product pages could positively influence user behavior. The team tested a variation of the product and delivery page that emphasized the free delivery offer against the original version to measure the impact on conversions.",
+            "results": "Increase in conversions by 2.6%"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/best-price-guarantee",
+        "page_title": "Best price guarantee",
+        "company": "Buyagift",
+        "type": "Checkout & sales",
+        "image_url": "https://framerusercontent.com/images/AE5vb98hfExEzDYmZEBxmip7yL0.png",
+        "text": {
+            "description": "Buyagiftâs new design features a widget on product pages that highlights their best price guarantee and explains how the lowest prices are achieved. This update aims to reduce user drop-off by reassuring customers they are getting the best deal, which is likely to increase on-site conversions by reducing the urge to search for better prices elsewhere.",
+            "results": "9.6% increase in sales"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/enhancing-product-detail-page",
+        "page_title": "Enhancing product detail page",
+        "company": "Goldelucks",
+        "type": "Checkout & sales",
+        "image_url": "https://framerusercontent.com/images/M20WJW80xVdmdYe3lmAIuT83e4.png",
+        "text": {
+            "description": "Goldelucks, a dessert delivery service in Australia, noticed that while their product pages attracted significant traffic, many visitors left without making a purchase. To convert more of these visitors into customers without resorting to discounts, they added concise, benefit-focused descriptions to the top of their product pages, enhancing the value presentation and encouraging more conversions.",
+            "results": "31.56% increase in orders66.2% increase in order revenue"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/storytelling-card",
+        "page_title": "Storytelling card",
+        "company": "Beckett Simonon",
+        "type": "Checkout & sales",
+        "image_url": "https://framerusercontent.com/images/PRMGgdoe0yVzCzbuki9omN6Qg.png",
+        "text": {
+            "description": "Beckett Simonon, an online retailer specializing in handcrafted leather shoes, tested the impact of adding a storytelling panel to their website. This panel emphasized the brand's commitment to sustainability and craftsmanship. The goal was to enhance conversion rates by highlighting these core values, potentially resonating more with customers and boosting sales.",
+            "results": "Increase in sales by 5%Annualized return on investment of 237%"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/free-trial-reminder",
+        "page_title": "Free trial reminder",
+        "company": "Shaw Academy",
+        "type": "Paywall & free trial",
+        "image_url": "https://framerusercontent.com/images/WzRGrjRDv3E7B2RSV3iDQCbUs.png",
+        "text": {
+            "description": "Shaw Academyâs new design introduced a reminder that emails users 3 days before their free trial ends. This experiment aimed to boost trial sign-ups while managing the risk of increased cancellations. The change improved trial conversion rates without significantly affecting cancellations, demonstrating the potential of bold experiments with controlled risks.",
+            "results": "14% increase in sales at over 99% significance"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/optimal-cta-design",
+        "page_title": "Optimal CTA design",
+        "company": "Unacademy",
+        "type": "Misc",
+        "image_url": "https://framerusercontent.com/images/gH9NNVHHKs350TmqpxbUg05cI.png",
+        "text": {
+            "description": "To improve the discoverability of trending classes, Unacademy conducted an experiment on the class carousel featuring a \"See all free classes\" button. The goal was to increase user clicks on this CTA. Two variants were tested against the original version: Variant B aligned with the existing UI components, while Variant C featured a thin-bordered button. The experiment equally divided users among the three options to identify the most effective design for boosting engagement.",
+            "results": "Variant C emerged as the clear winner, generating 13k clicks compared to 9k clicks for A and 7k clicks for B."
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/monthly-vs-weekly-vs-free-trial",
+        "page_title": "Monthly vs Weekly vs Free Trial",
+        "company": "the pdf scanner",
+        "type": "Paywall & free trial",
+        "image_url": "https://framerusercontent.com/images/jQiIkBVd6hNZBgrI8Twz5Z2W0.png",
+        "text": {
+            "description": "The team behind the PDF scanner app was testing different subscription models to determine which generates the most profit. They compared a standard monthly subscription, a weekly subscription, and a weekly subscription with a trial period.",
+            "results": "The trial subscription conversion rate (2.29%) was almost twice as high as the monthly subscription conversion rate (1.21%). It was also higher than the weekly subscription conversion rate (1.63%)"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/how-your-free-trial-works",
+        "page_title": "How your free trial works",
+        "company": "Blinkist",
+        "type": "Paywall & free trial",
+        "image_url": "https://framerusercontent.com/images/8OFdbicOK4AaxDG89UUyVriXeJ0.png",
+        "text": {
+            "description": "Blinkistâs new design provides a very clear step-by-step breakdown of itâs 7-day trial period, including reminders on Day 5 and details on the charge on Day 7. These changes are likely designed to provide more transparency, reduce the friction of canceling the trial, and improve user confidence in starting the trial by emphasizing ease and clarity.",
+            "results": "23% more trial signups55% fewer customer complaintsIncreased push notification opt-ins from 6 to 74%"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/paywall-visuals",
+        "page_title": "Paywall visuals",
+        "company": "Neos Kosmos",
+        "type": "Paywall & free trial",
+        "image_url": "https://framerusercontent.com/images/CrGZr7gugcVIQRRfZzgLCRmpQs.png",
+        "text": {
+            "description": "Neos Kosmos tested whether the visual used on their paywall could influence conversion rates. The control displayed a Greek building, while the variant featured an image of immigrants arriving on a boat. This test aimed to determine which visual would better resonate with users and lead to higher conversions.",
+            "results": "13% higher conversion rates"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/optimizing-paywall-placement",
+        "page_title": "Optimizing paywall placement",
+        "company": "Instasize",
+        "type": "Paywall & free trial",
+        "image_url": "https://framerusercontent.com/images/OQfxfVW1QJDCwzlRH8gSMuT5U.png",
+        "text": {
+            "description": "Instasize tested different paywall placements by presenting the paywall at various points in the user journey to identify the optimal moment for conversion. The winning variant displayed the paywall immediately after the user opened the app.",
+            "results": "7% increase in premium subscriptions"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/benefits-driven-vs-emotional-appeal-messaging",
+        "page_title": "Benefits-driven vs emotional appeal messaging",
+        "company": "Neos Kosmos",
+        "type": "Paywall & free trial",
+        "image_url": "https://framerusercontent.com/images/JO4XlnRujfFJfXFWWtmMixAg.png",
+        "text": {
+            "description": "Neos Kosmos tested whether changing the tone of voice on their paywall could influence conversion rates. The original messaging focused on detailing the benefits of the premium subscription, while the new approach appealed to usersâ emotional and cultural connections, encouraging them to \"support our work.\" This test aimed to determine if a more personal and culturally resonant message would lead to higher conversions.",
+            "results": "16% increase in conversion rates"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/personalized-pricing-recommendations",
+        "page_title": "Personalized pricing recommendations",
+        "company": "Grammarly",
+        "type": "Onboarding",
+        "image_url": "https://framerusercontent.com/images/auKYMWN8XxRxmeFaZEUQQN0Ug.png",
+        "text": {
+            "description": "Grammarlyâs updated onboarding flow uses personalized questionnaire responses to recommend tailored pricing plans. By customizing the plan suggestions based on user input and updating the pricing page to reflect their needs, this approach aims to boost engagement and conversions.",
+            "results": "10-20% increase in upgrade rates"
+        }
+    },
+    {
+        "analysis_url": "https://abtest.design/tests/highlighting-monthly-pricing",
+        "page_title": "Highlighting monthly pricing",
+        "company": "Unacademy",
+        "type": "Paywall & free trial",
+        "image_url": "https://framerusercontent.com/images/3K6AekDKIHrj0xMIrlHcIRhcHfg.png",
+        "text": {
+            "description": "Unacademy tested a change on their pricing page screen, shifting from displaying the full course price to highlighting the per month pricing. The hypothesis was that showing monthly costs would help learners better understand the value of the offering. The test aimed to determine if this approach would improve user comprehension and engagement.",
+            "results": "13.5% more click-through rate with 100% significance."
+        }
+    }
+]
