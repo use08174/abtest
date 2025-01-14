@@ -62,16 +62,23 @@ class ImageCropper:
         image_path = os.path.join(self.input_folder, self.image_files[self.current_image_index])
         self.img = Image.open(image_path)
 
-        # Adjust window size to match the image size or ensure a minimum height
-        image_width, image_height = self.img.size
-        self.tk_img = ImageTk.PhotoImage(self.img)
-        display_width, display_height = image_width, image_height
+        # original image
+        original_width, original_height = self.img.size
 
-        # Ensure the window size accommodates the image and buttons
-        button_panel_width = 200  # Fixed width for the button panel
-        min_window_width = display_width + button_panel_width
-        min_window_height = max(display_height, 600)  # Ensure minimum height for smaller images
-        self.root.geometry(f"{min_window_width}x{min_window_height}")
+        # calculate scale
+        max_display_width = 1200  # 최대 표시할 창 너비
+        max_display_height = 800  # 최대 표시할 창 높이
+        scale_x = max_display_width / original_width
+        scale_y = max_display_height / original_height
+        self.image_scale = min(scale_x, scale_y, 1)  # 축소 비율 (1보다 크지 않도록 제한)
+
+        # scaled image
+        display_width = int(original_width * self.image_scale)
+        display_height = int(original_height * self.image_scale)
+
+        # resize
+        self.display_image = self.img.resize((display_width, display_height), Image.Resampling.LANCZOS)
+        self.tk_img = ImageTk.PhotoImage(self.display_image)
 
         self.canvas.delete("all")
         self.canvas.config(width=display_width, height=display_height)
@@ -90,9 +97,16 @@ class ImageCropper:
         self.end_x = event.x
         self.end_y = event.y
 
-    def submit_crop(self):
-        coords = (min(self.start_x, self.end_x), min(self.start_y, self.end_y), max(self.start_x, self.end_x), max(self.start_y, self.end_y))
+        # original coordinates
+        self.original_start_x = int(self.start_x / self.image_scale)
+        self.original_start_y = int(self.start_y / self.image_scale)
+        self.original_end_x = int(self.end_x / self.image_scale)
+        self.original_end_y = int(self.end_y / self.image_scale)
 
+        #print(f"Original Coordinates: ({self.original_start_x}, {self.original_start_y}) to ({self.original_end_x}, {self.original_end_y})")
+
+    def submit_crop(self):
+        coords = (self.original_start_x, self.original_start_y, self.original_end_x, self.original_end_y)
         cropped_img = self.img.crop(coords)
 
         # Convert mode if not supported by JPEG
